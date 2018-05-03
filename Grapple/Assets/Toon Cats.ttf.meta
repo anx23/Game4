@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: de729a7d92a785f44812dfee9bf43754
+timeCreated: 1524930849
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Toon Cats
+  fontNames:
+  - Toon Cats
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
